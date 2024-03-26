@@ -1,5 +1,5 @@
 # APITests
-API Testing with Postman
+**API Testing with Postman**
 
 **1. Testing with GET method and 2 parameters the endpoint: https://qachallenge.ro/api/?action=fetch_single&id=1**
 ![image](https://github.com/ChiriacAlina/APITests/assets/160241958/67798bf4-73de-4df9-846a-9d65acd7be45)
