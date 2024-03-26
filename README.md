@@ -1,4 +1,4 @@
-# APITests
+#APITestPostman
 **API Testing with Postman**
 
 **1. Testing with GET method and 2 parameters the endpoint: https://qachallenge.ro/api/?action=fetch_single&id=1**
