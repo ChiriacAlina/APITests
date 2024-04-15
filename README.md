@@ -1,6 +1,6 @@
 **API Testing with Postman**
 
-**1. Testing with GET method and 2 parameters the endpoint: https://qachallenge.ro/api/?action=fetch_single&id=1**
+**1. Testing to GET a single user from the list on this endpoint: https://qachallenge.ro/api/?action=fetch_single&id=1**
 ![image](https://github.com/ChiriacAlina/APITests/assets/160241958/67798bf4-73de-4df9-846a-9d65acd7be45)
 
 **2. Testing with POST method and 1 parameter the endpoint: https://qachallenge.ro/api/?action=insert**
